@@ -12,6 +12,5 @@ base: # <teacher, student>
 - MRPC: 
 - SST2: 
 - STSB:
-<br>
 
 Hinton:
