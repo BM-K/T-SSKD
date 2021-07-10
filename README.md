@@ -6,7 +6,8 @@ Dataset:
 - MRPC 
 - STSB <br>
 
-base: # <teacher, student>
+base: 
+<teacher, student>
 - IMDB: 
 - MRPC: 
 - STSB:
