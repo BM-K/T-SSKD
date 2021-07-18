@@ -7,9 +7,9 @@ Dataset:
 
 base: 
 <teacher, student>
-- IMDB: 89, 81
+- IMDB: 89.2, 81.7
 - MRPC: 
 
 Hinton:
-- IMDB: 
+- IMDB: 82.1
 - MRPC: 
