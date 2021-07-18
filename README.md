@@ -12,4 +12,8 @@ base:
 
 Hinton:
 - IMDB: 82.1
-- MRPC: 
+- MRPC:
+
+Self-s:
+- IMDB: 85.2
+- MRPC:
