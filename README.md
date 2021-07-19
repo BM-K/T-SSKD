@@ -3,17 +3,21 @@
 ## Experiments
 Dataset:
 - IMDB 
-- MRPC 
+- MRPC
+- CoLA
 
 base: 
 <teacher, student>
-- IMDB: 89.2, 81.7
-- MRPC: 
+- IMDB: 92.11, 86.94
+- MRPC:
+- CoLA: 
 
 Hinton:
-- IMDB: 82.1
+- IMDB: 
 - MRPC:
+- CoLA:
 
 Self-s:
-- IMDB: 85.2
+- IMDB:
 - MRPC:
+- CoLA:
