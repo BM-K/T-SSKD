@@ -19,6 +19,6 @@ Hinton:
 - CoLA:
 
 Self-s:
-- IMDB:
+- IMDB: 89.20
 - MRPC:
 - CoLA:
