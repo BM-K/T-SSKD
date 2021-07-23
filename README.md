@@ -27,3 +27,8 @@ Self-s + embed:
 - IMDB: 89.43(4,256), 90.01(6, 384)
 - MRPC:
 - CoLA:
+
+Self-s + embed + attn:
+- IMDB:
+- MRPC:
+- CoLA:
