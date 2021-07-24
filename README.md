@@ -6,10 +6,10 @@ Dataset:
 - MRPC
 - CoLA
 
-BERT: 92.11, DiBERT: 91.77, Tbase: 86.94(4L12H) <br>
+BERT: 92.11, DiBERT: 91.77, Tbase: (6L12H384D) <br>
 base: 
 <teacher, student>
-- IMDB: 92.11, 86.94
+- IMDB: 92.11
 - MRPC:
 - CoLA: 
 
@@ -19,12 +19,12 @@ Hinton:
 - CoLA:
 
 Self-s:
-- IMDB: 88.8 ?
+- IMDB: 
 - MRPC:
 - CoLA:
 
 Self-s + embed:
-- IMDB: 89.43(4,256), 90.01(6, 384)
+- IMDB:
 - MRPC:
 - CoLA:
 
