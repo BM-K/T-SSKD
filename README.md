@@ -10,25 +10,25 @@ BERT: 92.11, DiBERT: 91.77, Tbase:87.34(6L12H384D) <br>
 base: 
 <teacher, student>
 - IMDB: 92.11, 87.34
-- MRPC:
+- SST-2: 92.41 (virgo),
 - CoLA: 
 
 Hinton:
 - IMDB: 
-- MRPC:
+- SST-2:
 - CoLA:
 
 Self-s:
 - IMDB: 
-- MRPC:
+- SST-2:
 - CoLA:
 
 Self-s + embed:
 - IMDB:
-- MRPC:
+- SST-2:
 - CoLA:
 
 Self-s + embed + attn:
 - IMDB:
-- MRPC:
+- SST-2:
 - CoLA:
