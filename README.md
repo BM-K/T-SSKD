@@ -6,7 +6,7 @@ Dataset:
 - MRPC
 - CoLA
 
-BERT: 92.11, DiBERT: 91.77, SmBERT3: <br>
+BERT: 92.11, DiBERT: 91.77, SmBERT3:91.29 <br>
 base: 
 - IMDB: 92.11, 
 - SST-2: 92.41 (virgo), 80.13
