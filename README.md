@@ -14,7 +14,7 @@ base:
 - CoLA: 
 
 Hinton:
-- IMDB: 
+- IMDB: 88.26
 - SST-2:
 - CoLA:
 
