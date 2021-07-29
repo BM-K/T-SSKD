@@ -6,15 +6,14 @@ Dataset:
 - MRPC
 - CoLA
 
-BERT: 92.11, DiBERT: 91.77, Tbase:87.64(6L12H384D0.0001LR) <br>
+BERT: 92.11, DiBERT: 91.77, SmBERT3: <br>
 base: 
-<teacher, student>
-- IMDB: 92.11, 87.64
+- IMDB: 92.11, 
 - SST-2: 92.41 (virgo), 80.13
 - CoLA: 
 
 Hinton:
-- IMDB: 88.26
+- IMDB:
 - SST-2:
 - CoLA:
 
