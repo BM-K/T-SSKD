@@ -6,7 +6,7 @@ Dataset:
 - MRPC
 - CoLA
 
-BERT: 92.11, DiBERT: 91.77, Tbase:87.34(6L12H384D) <br>
+BERT: 92.11, DiBERT: 91.77, Tbase:87.64(6L12H384D0.0001LR) <br>
 base: 
 <teacher, student>
 - IMDB: 92.11, 87.34
