@@ -6,5 +6,5 @@ Dataset:
 - 
 - NSMC
 
-BERT: , DiBERT: , <br>
+BERT: , DitilBERT: , <br>
 base: 
