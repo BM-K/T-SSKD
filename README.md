@@ -3,8 +3,7 @@
 ## Experiments
 Dataset:
 - IMDB 
-- 
-- NSMC
+- AMZR
 
-BERT: , DitilBERT: , <br>
-base: 
+BERT: , DitilBERT: , MobileBERT, MiniLM <br>
+trans: <br>
