@@ -5,5 +5,8 @@ Dataset:
 - IMDB 
 - AMZR
 
-BERT: , DitilBERT: , MobileBERT, MiniLM <br>
-trans: <br>
+BERT: <br>
+DitilBERT: <br>
+MobileBERT: <br>
+MiniLM: <br>
+Trans: <br>
