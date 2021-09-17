@@ -3,8 +3,9 @@
 ## Experiments
 Dataset:
 - IMDB 
-- AMZR
+- AMZR_p
 
+IMDB|AMZR_p <br>
 BERT: 93.54 | 94.84 <br>
 DitilBERT: 92.89 | 93.69 <br>
 MiniLM: 93.22 | 94.77 <br>
