@@ -7,5 +7,5 @@ Dataset:
 
 BERT: 93.54 | <br>
 DitilBERT: 92.89 | <br>
-MiniLM: <br>
+MiniLM: 93.22 | <br>
 Trans: <br>
