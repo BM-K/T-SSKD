@@ -16,4 +16,4 @@ T-SSKD (+sskd) <br>
 : 91.19 (0, 01. 500, 16, 150, 42, 0.0003 0.1 temperature 1) <br>
 : 91.68 (0, 01. 500, 16, 150, 42, 0.0003 0.1 temperature 2) <br>
 T-SSKD (+sskd +attn) <br>
-: 00.00 <br>
+: 91.55 (fixed sskd | attn temperature 1) <br>
