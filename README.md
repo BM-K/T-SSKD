@@ -7,7 +7,7 @@ Dataset:
 
 ================================ <br>
 IMDB|AMZR_p <br>
-BERT: 93.23 | 94.05 <br>
+BERT: 93.23 | 94.67 (256/32) <br>
 DitilBERT: 92.70 | - <br>
 MiniLM: 92.96 | - <br>
 Trans: 80.88 | - <br>
