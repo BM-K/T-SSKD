@@ -19,3 +19,4 @@ T-SSKD (+sskd +attn) <br>
 : 91.55 (fixed sskd | attn temperature 1) <br>
 : 92.91 (fixed sskd | attn temperature 1, loss/N.head) <br>
 : 93.43 (fixed sskd | attn temperature 1, loss/N.head, no vocab distribution, 57M->2048) <br>
+: 93.31 (fixed sskd | attn temperature 1, loss/N.head, vocab distribution, 67M) <br>
