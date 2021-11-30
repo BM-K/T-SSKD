@@ -1,4 +1,4 @@
 # T-SSKD
 
 ## Experiments
-<img src='https://user-images.githubusercontent.com/55969260/141485752-53e017bb-3561-4931-b708-fcf07b2dfacf.png'>
+<img src='https://user-images.githubusercontent.com/55969260/143983852-2a0c1007-5197-4b43-9ca9-c4e59c1efa4f.png'>
